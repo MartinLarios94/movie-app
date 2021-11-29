@@ -32,7 +32,7 @@ npx react-native run-android
 
 ## Demo
 
-### Url Download APK & Demo Video
+### Url Download APK
 https://www.dropbox.com/sh/kf4gf32y4sk6vmj/AADKzjdOZtFjZ8bWWhNBMbDXa?dl=0
 
 ### Gif
