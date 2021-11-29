@@ -35,5 +35,9 @@ npx react-native run-android
 ### Url Download APK & Demo Video
 https://www.dropbox.com/sh/kf4gf32y4sk6vmj/AADKzjdOZtFjZ8bWWhNBMbDXa?dl=0
 
+### Gif
+![movie-app-gif](https://user-images.githubusercontent.com/13221820/143886481-6af9fae1-c93a-413a-bf94-8ff7c02c5b1d.gif)
+
+
 ### Image
 <img width="400" alt="Screen Shot 2021-11-29 at 08 23 38" src="https://user-images.githubusercontent.com/13221820/143884930-0a8720c5-1551-4c41-9a8d-07e125005562.png">
